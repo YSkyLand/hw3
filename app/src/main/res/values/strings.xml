@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">hw3</string>
+    <string name="change">Change</string>
+    <string name="helloworld">Hello World</string>
+    <string name="red">red:?</string>
+    <string name="green">green:?</string>
+    <string name="blue">blue:?</string>
+</resources>
